@@ -22,7 +22,6 @@
 ---
 
 ## 📫 Let's Connect!
-- 📍 Cebu City, Philippines  
 - 📧 georfo.joanne05@gmail.com
 - 🧠 Always open to collaboration and learning
 
