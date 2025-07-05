@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi there! I'm Joanne "Wane" R. Georfo
 
-<!--
-**georfojoanne/georfojoanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 2nd year Computer Engineering student from **Cebu Technological University**.  
+💻 I'm passionate about **development**, **cybersecurity**, and **AI/ML**.  
+🌱 Currently exploring projects that bridge the gap between software and hardware.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Interests
+- Frontend & backend development
+- Cybersecurity fundamentals
+- Machine learning & AI models
+- Internet of Things (IoT) and embedded systems
+
+---
+
+## 🚀 Goals
+- Build real-world tech projects that help people
+- Join tech communities and hackathons
+- Learn from open-source contributors and mentors
+
+---
+
+## 📫 Let's Connect!
+- 📍 Cebu City, Philippines  
+- 📧 georfo.joanne05@gmail.com
+- 🧠 Always open to collaboration and learning
+
+---
+
+> *“Learning and learning and learning”*
